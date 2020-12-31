@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Hamza Hayd
 
 
-- 🔭 I’m currently working on JavaScript & ReactJS
-- 🌱 I’m currently learning Uppsala University
+- 🔭 I’m currently working on amazing and intresting project. 
+- 🌱 I’m currently learning JavaScript & ReactJS
 - 📫 How to reach me: at twitter @muminhayd
 - ⚡ Fun fact: 
 -->
