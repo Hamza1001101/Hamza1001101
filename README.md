@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Hamza Hayd
 
-Aspiring Full-Stack developer with a passion for creative solutions like designing, building, and maintaining responsive websites and web applications. Proficient in CSS, JavaScript, ReactJS. | Experience with Java, C#, Asp.net MVC, SQL and NoSQL Databases(MongoDB).
+Aspiring Full-Stack Developer with a passion for creative solutions like designing, building, and maintaining modern APIs and web applications. Proficient in Java, Spring, Spring boot | Experience with Nodejs, JavaScript, Reactjs, CSS, C#, Asp.net MVC, MongoDB, and SQL. 
 
-- 💼 I'm currently working on becoming a Full-Stack developer. <br/>
-- 🔭 I’m currently building a Transaction Control web-based application using JavaScript and ReactJS.<br/>
-- 🌱 I’m currently learning Advanced React State Management Patterns.<br/>
+- 💼 Java developer @TietoEVRY. <br/>
+- 🌱 I’m currently learning more on Devops and Java ecosystem.<br/>
 - 📫 How to reach me: @HamzaHayd17.
