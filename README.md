@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Hamza Hayd Farah
+### Hi there 👋 I'm Hamza Hayd f
 
 Full-Stack Java Developer with a passion for creative solutions like designing, building, 
 and maintaining modern APIs and web applications. Proficient in Java, Spring, Spring boot | 
