@@ -6,6 +6,6 @@ Experience with JavaScript, Nextjs, Reactjs, SQL & NoSQL databases t.ex. MongoDB
 containerization and orchestration technologies like Docker, Kubernetes, and OpenShift | Certified SAFe® 6 Scrum Master.
 
 
-- 💼 Software Engineer @Folksam. <br/>
+- 💼 Software Engineer @Folksam <br/>
 - 🌱 I’m currently learning Distributed systems, delving deep into the world of Containerization and Microservices Architecture.<br/>
 - 📫 How to reach me: @HamzaHayd17.
