@@ -7,5 +7,5 @@ containerization and orchestration technologies like Docker, Kubernetes, and Ope
 
 
 - 💼 Software Engineer @Folksam <br/>
-- 🌱 I’m currently learning Distributed Systems, delving deep into the world of Containerization and Microservices Architecture.<br/>
+- 🌱 Currently learning Distributed Systems, delving deep into the world of Containerization and Microservices Architecture.<br/>
 - 📫 How to reach me: @HamzaHaydFarah.
