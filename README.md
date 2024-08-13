@@ -1,11 +1,6 @@
 #### Hi there 👋 I'm Hamza Hayd
 
-Full-Stack Java Developer with a passion for creative solutions like designing, building, 
-and maintaining modern APIs and web applications. Proficient in Java, Spring, Spring boot | 
-Experience with JavaScript, Nextjs, Reactjs, SQL & NoSQL databases t.ex. MongoDB & Elasticsearch | Enthusiastic about leveraging modern 
-containerization and orchestration technologies like Docker, Kubernetes, and OpenShift | Certified SAFe® 6 Scrum Master.
+Java Developer skilled in designing, building, and maintaining modern APIs and web applications. Proficient in Java, Spring, and Spring Boot, among other technologies. Experience in TypeScript, Next.js, SQL, and NoSQL databases including PostgreSQL and Elasticsearch. Enthusiastic about leveraging modern containerization and orchestration technologies like Docker and Kubernetes (OpenShift). Skilled in using Prometheus and Grafana for system monitoring in DevOps environments. Certified SAFe® 6 Scrum Master and Spring Certified Professional 2024 [v2].
 
 
 - 💼 Software Engineer @Folksam <br/>
-- 🌱 Currently learning Distributed Systems, delving deep into the world of Containerization and Microservices Architecture.<br/>
-- 📫 How to reach me: @HamzaHaydFarah.
